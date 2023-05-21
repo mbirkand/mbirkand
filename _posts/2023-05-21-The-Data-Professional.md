@@ -6,7 +6,11 @@ categories: markdown
 tags: [guide, markdown]
 ---
 
-## Resources
+## Learning Outcomes
+## Artefacts
+## Reflections
+## Meeting notes
+## Action plans
 
 - A summary of the learning outcomes of the module
 - The artefacts created during the module, including a brief description of each one and any feedback received

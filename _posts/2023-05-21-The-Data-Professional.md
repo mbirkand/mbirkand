@@ -7,6 +7,27 @@ tags: [guide, markdown]
 ---
 
 ## Learning Outcomes
+
+
+Summary Post:
+In my initial post I have discussed the future of data scientists and potential challenges and opportunities available for the data professionals. Although, in my opinion, pros weighs cons, according to Yildirim (2020), there is a dark side which a data scientist must continually learn and adapt to keep up with the fast-paced technology environment. Naturally specializing in different disciplines can give them a competitive edge in the job market. Goal is always the same, to turn data into value with optimized processes.
+
+During my discussions with colleagues, I observed a consensus among my peers regarding the challenges and opportunities within the field of data science, the field of data science has many opportunities waiting to be explored. Interestingly, a new perspective emerged during these conversations. It was the importance of reflecting upon the ethical and legal considerations. My colleague Rabson Zimba, argued that drawing valuable insights from the data on its own is not enough but a data scientist should also prioritize the contemplation of legal and ethical concerns.
+
+
+Master data management (MDM) is a discipline within the field of data science that focuses on the effective management and governance of an organization's core data assets. MDM provides a unified master data service that provides accurate, consistent and complete master data Profisee (2019). This will eventually lead to solve possible data management challenges such as data inconsistency and lacking standardization. MDM is a fundamental discipline that eases the process of decision making by providing a solid foundation and enhancing data integrity for the data scientist.
+
+In conclusion, although the tools used can change, objective of a data scientist now and in the future remains consistent, to unlock the full potential of their data assets. In this pursuit, MDM is one of the core frameworks to enable data professionals to achieve this objective. 
+
+
+
+Yıldırım, S. (2021). The Dark Side of the Sexiest Job of the 21st Century. [online] Medium. Available at: https://towardsdatascience.com/the-dark-side-of-the-sexiest-job-of-the-21st-century-fd9c46bf4cae. 
+[Accessed 18 May 2023]
+
+Profisee (2019). Master Data Management - What, Why, How & Who. [online] Enterprise Master Data Management, Profisee. Available at: https://profisee.com/master-data-management-what-why-how-who/ 
+[Accessed 18 May 2023]
+
+
 ## Artefacts
 ## Reflections
 
